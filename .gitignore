@@ -1,0 +1,16 @@
+node_modules
+
+
+# lockfiles
+yarn.lock
+package-*.json
+
+
+# env files
+.env
+.env.*
+
+# deployment scripts
+deploy.sh
+
+.dockerignore
